@@ -1,0 +1,19 @@
+.search {
+    background-color: rgb(221, 205, 183);
+    height: 100px;
+    width: 1303px;
+}
+#sea3 {
+    display: inline-block;
+    position: fixed;
+    height: 30px;
+    top: 12px;
+    right: 98px;
+}
+.home {
+    background-color: rgb(221, 205, 183);
+    width: 1310px;
+}
+.main {
+    margin: 0px 196px;
+}

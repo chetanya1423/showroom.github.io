@@ -1,0 +1,156 @@
+body{
+    
+}
+.search{
+    background-color: rgb(221, 205, 183);
+    height: 100px;
+}
+.slnav {
+width: 100px;
+height: 43px;
+position: absolute;
+top: 62px;
+left: 14px;
+}
+.slnav1{
+position: relative;
+width: 250px;
+height: 100%;
+animation-name: Navigation;
+animation-duration: 8s;
+    animation-iteration-count: 1;
+    animation-fill-mode: alternate; 
+    animation-delay: 1s;
+}
+#sea1{
+    display: inline-block;
+    border: 2px solid blue;
+    position: absolute;
+    top: 12px;
+    left: 14px;
+    height: 40px;
+    width: 80px;
+}
+
+#sea3{
+    display:inline-block;
+    position: absolute;
+    height: 30px;
+    top: 12px;
+    right: 14px;
+}
+.home {
+    background-color: rgb(221, 205, 183);
+}
+#had1{
+    color: skyblue;
+}
+#had2{
+    font-family:bold;
+}
+.main{
+    width: 900px;
+}
+.navbar{
+    width: 900px;
+}
+.nav{
+    text-decoration: none;
+    
+    display: inline-block;
+    color: black;
+    margin: 5px 20px;
+}
+.info{
+    font-family: 'Baloo Bhai', cursive;
+   
+}
+.info p{
+    
+}
+.main{
+    margin: 0px auto;
+}
+.list{
+    width: 1200px;
+    left: 10000px;
+    margin: 0px auto;
+    display: flex;
+    
+}
+.list::before {
+content: "";
+position: absolute;
+background-image: url('ktm img/ktm-390-duke-g92ee9ae17_1920.jpg');
+background-repeat: repeat;
+width: 1579px;
+height: 5000px;
+z-index: -2;
+margin-left: -189px;
+}
+
+.underlist::before {
+content: "";
+position: absolute;
+background-image: url('ktm img/winding-road-g5552857aa_1920.jpg');
+width: 585px;
+height: 469px;
+z-index: -1;
+opacity:1;
+}
+.underlist{
+
+width: 573px;
+height: 470px;
+margin-top: 10px;
+
+}
+.underlist img {
+height: 252px;
+width: 453px;
+margin: 0px 65px;
+}
+.ud {
+margin-left: 171px;
+color: whitesmoke;
+}
+.udhad {
+width: 250px;
+height: 36px;
+margin: 0px auto;
+margin-left: 188px;
+color: white;   
+}
+.udhada {
+text-decoration: none;
+color: white;
+}
+.udhad a:hover{
+color: royalblue;
+}
+.udhad1 {
+margin-top: 6px;
+margin-left: 13px;
+}
+.ud1 {
+font-size: 26px;
+font-weight: bold;
+}
+.btn {
+margin-top: 9px;
+padding: 10px;
+width: 146px;
+border-radius: 10px;
+background-color: rgb(204, 70, 70);
+font-weight: bold;
+}
+.btn a{
+
+text-decoration: none;
+color: black;
+}
+.btn:hover{
+background-color: aquamarine;
+color: blue;
+cursor: pointer;
+}

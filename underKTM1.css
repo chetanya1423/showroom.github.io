@@ -1,0 +1,31 @@
+
+body{
+
+}
+.search {
+    background-color: rgb(221, 205, 183);
+    height: 54px;
+    width: 1297px;
+}
+#sea3 {
+    display: inline-block;
+    position: fixed;
+    height: 30px;
+    top: 12px;
+    right: 185px;
+}
+.had {
+    border: 1.5px solid rgb(206, 198, 198);
+    margin: 5px auto;
+    width: 1298px;
+}
+#had1 {
+    margin: 6px 456px;
+    width: 646px;
+}
+.on {
+    border: 1.5px solid rgb(206, 198, 198);
+    height: 444px;
+    width: 1290px;
+    margin: 0px auto;
+}

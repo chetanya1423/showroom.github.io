@@ -1,0 +1,127 @@
+.search {
+    background-color: rgb(221, 205, 183);
+    height: 174px;
+    width: 1303px;
+}
+#sea1 {
+    display: inline-block;
+    border: 2px solid blue;
+    position: absolute;
+    top: 12px;
+    left: 14px;
+    height: 142px;
+    width: 261px;
+}
+#sea3 {
+    display: inline-block;
+    position: fixed;
+    height: 79px;
+    top: 12px;
+    right: 152px;
+    width: 282px;
+    font-size: 54px;
+}
+.search {
+    background-color: rgb(221, 205, 183);
+    height: 174px;
+    width: 1265px;
+}
+.home {
+    background-color: rgb(221, 205, 183);
+    width: 1259px;
+    height: 145px;
+    margin-top: -33px;
+}
+#had1 {
+    color: skyblue;
+    width: 274px;
+    height: -18px;
+    font-size: 25px;
+}
+#had2 {
+    font-family: bold;
+    font-size: 50px;
+    margin-top: -18px;
+}
+.navbar {
+    width: 876px;
+    font-size: 47px;
+    margin-left: -254px;
+}
+.navbar ul a {
+    background-color: bisque;
+}
+.info {
+    font-family: 'Baloo Bhai', cursive;
+    margin-left: -193px;
+    height: 602px;
+}
+.info p {
+    font-size: 48px;
+    width: 765px;
+    margin-left: 20px;
+}
+.info a {
+    font-size: 44px;
+    margin-left: 20px;
+}
+.uplist{
+
+}
+.underlist::before {
+    content: "";
+    position: absolute;
+    background-image: url('ktm img/winding-road-g5552857aa_1920.jpg');
+    width: 734px;
+    height: 617px;
+    z-index: -1;
+    opacity: 1;
+}
+.underlist img {
+    height: 323px;
+    width: 600px;
+    margin: 0px 65px;
+}
+.underlist {
+    width: 573px;
+    height: 470px;
+    margin-top: 147px;
+}
+.udhad1 {
+    margin-top: 6px;
+    margin-left: -120px;
+    font-size: 35px;
+}
+.ud {
+    margin-left: 75px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.ud1 {
+    font-size: 32px;
+    font-weight: bold;
+    width: 253px;
+}
+.btn {
+    margin-top: 9px;
+    padding: 10px;
+    width: 254px;
+    height: 47px;
+    font-size: 29px;
+    border-radius: 10px;
+    background-color: rgb(204, 70, 70);
+    font-weight: bold;
+}
+    #asdf {
+        margin-left: 0px;
+    }
+    .list::before {
+        content: "";
+        position: absolute;
+        background-image: url('ktm img/ktm-390-duke-g92ee9ae17_1920.jpg');
+        background-repeat: repeat;
+        width: 1579px;
+        height: 7000px;
+        z-index: -2;
+        margin-left: -189px;
+    }
